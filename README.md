@@ -1,4 +1,4 @@
-utopia-theme-default.github.io
+lochnesser.github.io
 ==============================
 
-The default CSS theme of http://utopia-game.com
+Inspired and Forked from http://spahrep.github.io
